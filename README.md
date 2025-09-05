@@ -31,13 +31,13 @@ Responsive on mobile and small devices.
 **1.** Cloning the repository:
 
 ```bash
-git clone https://github.com/riad-azz/instagram-video-downloader.git
+git clone https://github.com/hiteshchouhan22/instdd.git
 ```
 
 **2.** Installing dependencies:
 
 ```bash
-cd instagram-video-downloader
+cd instdd
 ```
 
 ```bash
