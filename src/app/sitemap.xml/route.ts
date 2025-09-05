@@ -4,17 +4,17 @@ export async function GET() {
   const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
   <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>https://www.instdd/</loc>
+      <loc>https://www.instdd.vercel.app/</loc>
       <lastmod>2024-12-08T00:00:00+01:00</lastmod>
       <priority>1.0</priority>
     </url>
     <url>
-      <loc>https://www.instdd/privacy-policy</loc>
+      <loc>https://instdd.vercel.app/privacy-policy</loc>
       <lastmod>2024-12-08T00:00:00+01:00</lastmod>
       <priority>1.0</priority>
     </url>
     <url>
-      <loc>https://www.instdd/terms-of-service</loc>
+      <loc>https://instdd.vercel.app/terms-of-service</loc>
       <lastmod>2024-12-08T00:00:00+01:00</lastmod>
       <priority>1.0</priority>
     </url>
