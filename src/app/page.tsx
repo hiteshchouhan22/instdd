@@ -68,7 +68,7 @@ export default function HomePage() {
       {/* Google Analytics Scripts */}
       <Script
         strategy="afterInteractive"
-        src="https://www.googletagmanager.com/gtag/js?id=G-TC7D9FC5PL"
+        src="https://www.googletagmanager.com/gtag/js?id=G-GF222Q95R9"
       />
       <Script
         id="ga-init"
@@ -79,7 +79,7 @@ export default function HomePage() {
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
-            gtag('config', 'G-TC7D9FC5PL', {
+            gtag('config', 'G-GF222Q95R9', {
               page_path: window.location.pathname,
             });
           `,

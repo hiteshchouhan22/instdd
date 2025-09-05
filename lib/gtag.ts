@@ -1,7 +1,7 @@
 // lib/gtag.ts
 
 // Replace 'G-XXXXXXXXXX' with your actual Measurement ID
-export const GA_TRACKING_ID: string = process.env.NEXT_PUBLIC_GA_TRACKING_ID || 'G-TC7D9FC5PL';
+export const GA_TRACKING_ID: string = process.env.NEXT_PUBLIC_GA_TRACKING_ID || 'G-GF222Q95R9';
 
 // Function to log page views
 export const pageview = (url: string) => {
